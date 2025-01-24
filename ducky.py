@@ -1,3 +1,6 @@
+# Thia acript will be use to turn off the tamper protection.
+
+
 import pyautogui
 import time
 
